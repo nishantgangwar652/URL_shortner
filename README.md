@@ -117,7 +117,6 @@ Request body:
 
 ```http
 GET /api/url
-```
 
 ### Delete a URL
 
